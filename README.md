@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://github.com/richfayoo?tab=repositories) 
 
 ## 🌱 I’m currently learning 
-[![My Skills](https://skillicons.dev/icons?i=js,c,python,postgresql,node.js)](https://github.com/richfayoo?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=js,c,python,postgresql,nodejs)](https://github.com/richfayoo?tab=repositories)
 
 ## Stay Connected
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shavalino-fayola-bertha-pangaribuan-485a13260/)
